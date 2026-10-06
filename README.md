@@ -39,8 +39,8 @@ Para levantar este proyecto en un entorno local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd pre-entrega-automation-testing
+   git clone https://github.com/CristianPurpura/pre-entrega-automation-testing-cristian-purpura.git
+   cd pre-entrega-automation-testing-cristian-purpura
    ```
 
 2. **Crear y activar el entorno virtual (Recomendado):**
